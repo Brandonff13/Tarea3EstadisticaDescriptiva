@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+pyspark
+jupyter
+seaborn
+pickleshare
+openpyxl>=3.1.0
